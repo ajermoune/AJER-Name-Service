@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajer-name-service/static/css/main.f59d5f34.css",
+    "main.js": "/ajer-name-service/static/js/main.bb43d6f9.js",
+    "static/media/twitter-logo.svg": "/ajer-name-service/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "static/media/polygonlogo.png": "/ajer-name-service/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/ajer-name-service/index.html",
+    "main.f59d5f34.css.map": "/ajer-name-service/static/css/main.f59d5f34.css.map",
+    "main.bb43d6f9.js.map": "/ajer-name-service/static/js/main.bb43d6f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59d5f34.css",
+    "static/js/main.bb43d6f9.js"
+  ]
+}
